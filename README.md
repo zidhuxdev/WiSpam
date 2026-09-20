@@ -68,7 +68,6 @@ Use clearly fictional names in testing. Never copy the SSID of a nearby real net
 WiSpam/
 ├── WiSpam.ino   # ESP32 Arduino sketch
 ├── README.md    # Project documentation
-└── .gitignore   # Git ignore rules
 ```
 
 ## Troubleshooting
@@ -84,7 +83,7 @@ This software can affect how nearby Wi-Fi scanners display networks. Keep experi
 
 ## Author
 
-Created by **[zidhuxdev](https://github.com/zidhuxdev)**.
+Created by **[zidhuxd](https://github.com/zidhuxdev)**.
 
 - GitHub: [github.com/zidhuxdev](https://github.com/zidhuxdev)
 - Repository: [github.com/zidhuxdev/WiSpam](https://github.com/zidhuxdev/WiSpam)
